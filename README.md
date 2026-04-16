@@ -1,3 +1,9 @@
+<div>
+  <img src="example_images/mount_iso.jpg" width="33%"/>
+  <img src="example_images/mount_bottom.jpg" width="33%"/>
+  <img src="example_images/mount_top.jpg" width="33%"/>
+</div>
+
 This model was designed with the capabilities of the Flashforge Adventure 5M FDM printer in mind. Printers with similar capabilities will hopefully not experience print issues when it comes to some of the dimensions.
 
 Print Settings Used (OrcaSlicer -- Flashforge Adventure 5M):
@@ -9,6 +15,8 @@ Place supports as seen below:
 <div>
   <img src="example_images/support_example.png" width="50%"/>
 </div>
+
+Press the textured lever at the top to allow the foxbox to slide out.
 
 ---
 
