@@ -16,7 +16,7 @@ Place supports as seen below:
   <img src="example_images/support_example.png" width="50%"/>
 </div>
 
-Press the textured lever at the top to allow the foxbox to slide out.
+Press the textured lever at the top to allow the FoxBox to slide out.
 
 ---
 
